@@ -7,7 +7,7 @@ author:     Victor
 header-img: img/McMaster_BG.jpg
 catalog: true
 tags:
-    - iOS
+    - GLP -Leadership
 ---
 
 ## 202201 GLP Sharing
@@ -27,5 +27,3 @@ tags:
 老话说，公司怎么对待员工，那么员工就怎么对待顾客。当公司视员工为资源（resource）而非资产（asset），那么就会千方百计盘剥员工，长久以往，员工不可能尽心尽力做工。Mike提到有一次他邀请P&G CEO为供应链部门的明星员工颁奖，末了他谢谢CEO百忙之中抽空出席，CEO一脸严肃地说：“这些人才是P&G的希望，公司没有领导层，照样玩得转，但是没有员工的努力，用不了多久就得垮台。”Mike说CEO这番话直到今天都仍然深深印在他的心上。周二晚上我与Todd导师对话的时候，他也提到两件事情让我非常震撼，他提到他入职P&G前夕，收到公司的通知，公司决定调高他的薪水，以维持薪酬竞争力。Offer的薪水黑纸白字写得一清二楚，公司不调高没有任何问题，所以他非常惊喜。而当他服务30来年决定提前退休时，他大概提前一年与他上司交流这个想法，没有想到公司竟然在最后一年给他调高了薪水。他谈到30多年的职业生涯，他始终能够感受到公司给予他的信任。
 
 商业要成功离不开信任一词，无论这个信任是来自于产品，来自于服务，来自于供应商还是来自于员工。若信任缺失，再辉煌的商业成就终将倒塌。
-
-<script src="https://giscus.app/client.js" data-repo="freejacklee/freejacklee.github.io" data-repo-id="R_kgDOGsAZlg" data-category="Show and tell" data-category-id="DIC_kwDOGsAZls4CAvRd" data-mapping="pathname" data-reactions-enabled="1" data-emit-metadata="0" data-theme="light" data-lang="zh-CN" crossorigin="anonymous" async> </script>
