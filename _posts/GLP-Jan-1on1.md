@@ -1,3 +1,5 @@
+\---
+
 layout:     post
 title:      202201 GLP Training Summary
 subtitle:   Leadership Sharing
@@ -6,7 +8,10 @@ author:     Victor
 header-img: img/McMaster_BG.jpg
 catalog: true
 tags:
+
     - GLP -Leadership
+
+\---
 
 ## 20220113_GLP Training Summary
 
