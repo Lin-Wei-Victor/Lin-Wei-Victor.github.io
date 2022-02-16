@@ -1,15 +1,13 @@
 ---
 
 layout:     post
-title:      202201 GLP Sharing
+title:      202202 GLP Sharing
 subtitle:   在线领导力培训分享
-date:       2022-01-18
+date:       2022-02-16
 author:     Victor
 header-img: img/McMaster_BG.jpg
 catalog: true
-tags:
-
-- GLP -Leadership
+tags: - GLP -Leadership
 
 ---
 
