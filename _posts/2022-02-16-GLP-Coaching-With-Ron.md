@@ -1,15 +1,13 @@
-
-
+---
 layout:     post
-title:      202202 GLP Coaching With Ron
-subtitle:   GLP Leadership training
+title:      202202 GLP coaching with Ron
+subtitle:   Leadership training
 date:       2022-02-16
 author:     Victor
 header-img: img/McMaster_BG.jpg
 catalog: true
 tags:
-
-      - GLP -Leadership
+    - GLP -Leadership
 
 ---
 
