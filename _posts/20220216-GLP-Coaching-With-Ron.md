@@ -1,3 +1,20 @@
+---
+
+layout:     post
+title:      202201 GLP Sharing
+subtitle:   在线领导力培训分享
+date:       2022-01-18
+author:     Victor
+header-img: img/McMaster_BG.jpg
+catalog: true
+tags:
+
+- GLP -Leadership
+
+---
+
+
+
 ## CQ team meeting with Ron on Feb 2022
 
 ### How to set aside time for strategic thinking? (From Sai)
