@@ -1,5 +1,5 @@
----
-​---
+
+
 layout:     post
 title:      202202 GLP Coaching With Ron
 subtitle:   GLP Leadership training
@@ -7,10 +7,10 @@ date:       2022-02-16
 author:     Victor
 header-img: img/McMaster_BG.jpg
 catalog: true
-tags: 
+tags:
 
-   - GLP -Leadership
-​---
+      - GLP -Leadership
+
 ---
 
 ## CQ team meeting with Ron on Feb 2022
