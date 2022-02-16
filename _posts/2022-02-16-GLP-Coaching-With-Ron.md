@@ -10,9 +10,7 @@ catalog: true
 tags: 
 
    - GLP -Leadership
-
----
-
+​---
 ---
 
 ## CQ team meeting with Ron on Feb 2022
@@ -53,7 +51,7 @@ tags:
 
 1. You can practice funeral visualization experience which is well described in Stephen R. Convey's book of 7 habits. 
 
-   [Funeral Exercise]("https://www.youtube.com/watch?v=1KIZK_3hbqM ")
+   [Funeral Exercise](https://www.youtube.com/watch?v=1KIZK_3hbqM)
 
 2. You need to strong compass to navigate your life as you will definitely go up and down in your life; 
    - Purpose of your life;
